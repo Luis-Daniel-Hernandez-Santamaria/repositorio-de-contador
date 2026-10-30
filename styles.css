@@ -1,0 +1,37 @@
+body{
+    background-color:violet;
+    font-family:Arial,helvertica,sans-serif;
+    text-align:center;
+    
+}
+
+.contenedor{
+    margin-top:80px;
+}
+
+h1,
+p {
+    color:white;
+}
+
+h2{
+    font-size:50px;
+    color:chocolate;
+}
+
+button {
+    padding:12px 20px;
+    margin:5px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+#sumar {
+    background-color:green;
+    color:white;
+}
+#reiniciar {
+    background-color:red;
+    color:white;
+}
